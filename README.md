@@ -1,4 +1,4 @@
-# Descodificador de texto
+# Decodificador de texto
 
 Bem-vindo ao projeto de criptografia de texto! Neste projeto, é possivel fazer a criptografa e descriptografa textos de acordo com algumas regras específicas.
 
